@@ -1,0 +1,12 @@
+G:\Home Work\Resturant\Resturant.DataAccess\bin\Debug\net6.0\Resturant.DataAccess.deps.json
+G:\Home Work\Resturant\Resturant.DataAccess\bin\Debug\net6.0\Resturant.DataAccess.dll
+G:\Home Work\Resturant\Resturant.DataAccess\bin\Debug\net6.0\Resturant.DataAccess.pdb
+G:\Home Work\Resturant\Resturant.DataAccess\obj\Debug\net6.0\Resturant.DataAccess.csproj.AssemblyReference.cache
+G:\Home Work\Resturant\Resturant.DataAccess\obj\Debug\net6.0\Resturant.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Home Work\Resturant\Resturant.DataAccess\obj\Debug\net6.0\Resturant.DataAccess.AssemblyInfoInputs.cache
+G:\Home Work\Resturant\Resturant.DataAccess\obj\Debug\net6.0\Resturant.DataAccess.AssemblyInfo.cs
+G:\Home Work\Resturant\Resturant.DataAccess\obj\Debug\net6.0\Resturant.DataAccess.csproj.CoreCompileInputs.cache
+G:\Home Work\Resturant\Resturant.DataAccess\obj\Debug\net6.0\Resturant.DataAccess.dll
+G:\Home Work\Resturant\Resturant.DataAccess\obj\Debug\net6.0\refint\Resturant.DataAccess.dll
+G:\Home Work\Resturant\Resturant.DataAccess\obj\Debug\net6.0\Resturant.DataAccess.pdb
+G:\Home Work\Resturant\Resturant.DataAccess\obj\Debug\net6.0\ref\Resturant.DataAccess.dll

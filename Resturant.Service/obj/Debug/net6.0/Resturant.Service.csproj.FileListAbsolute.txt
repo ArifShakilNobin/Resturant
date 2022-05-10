@@ -1,0 +1,17 @@
+G:\Home Work\Resturant\Resturant.Service\bin\Debug\net6.0\Resturant.Service.deps.json
+G:\Home Work\Resturant\Resturant.Service\bin\Debug\net6.0\Resturant.Service.dll
+G:\Home Work\Resturant\Resturant.Service\bin\Debug\net6.0\Resturant.Service.pdb
+G:\Home Work\Resturant\Resturant.Service\bin\Debug\net6.0\Resturant.DataAccess.dll
+G:\Home Work\Resturant\Resturant.Service\bin\Debug\net6.0\Resturant.Repository.dll
+G:\Home Work\Resturant\Resturant.Service\bin\Debug\net6.0\Resturant.DataAccess.pdb
+G:\Home Work\Resturant\Resturant.Service\bin\Debug\net6.0\Resturant.Repository.pdb
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\Resturant.Service.csproj.AssemblyReference.cache
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\Resturant.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\Resturant.Service.AssemblyInfoInputs.cache
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\Resturant.Service.AssemblyInfo.cs
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\Resturant.Service.csproj.CoreCompileInputs.cache
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\Resturant.Service.csproj.CopyComplete
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\Resturant.Service.dll
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\refint\Resturant.Service.dll
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\Resturant.Service.pdb
+G:\Home Work\Resturant\Resturant.Service\obj\Debug\net6.0\ref\Resturant.Service.dll
